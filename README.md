@@ -70,6 +70,14 @@ For filtering, the preferred approach will be:
 
 ---
 
+## Getting Started
+
+1. Clone the repo
+2. Update the connection string in appsettings.json with a database connection that includes Northwind
+3. Run the project
+
+---
+
 ### Note
 This is a simple and extendable API project, not a production-ready system.
 
@@ -133,6 +141,14 @@ Bu proje özellikle şu durumlar için uygun:
 - Yan tablolar için controller ve validasyonlar  
 - UI tarafına uygun filtreleme ve özel endpointler  
 
+
+---
+
+## Başlarken
+
+1. Repoyu klonlayın
+2. appsettings.json dosyasındaki connection string’i Northwind içeren bir database bağlantısı ile güncelleyin
+3. Projeyi çalıştırın
 
 ---
 
