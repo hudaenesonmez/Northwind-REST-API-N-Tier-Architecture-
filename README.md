@@ -60,14 +60,6 @@ Planned improvements:
 - Add controllers and validations for related tables  
 - Add filtering and custom query endpoints for UI usage  
 
-For filtering, the preferred approach will be:
-
-- Using query parameters  
-  `/api/products?minPrice=10&maxPrice=100`
-
-- Or creating specific endpoints when needed  
-  `/api/orders/by-customer/{id}`  
-
 ---
 
 ## Getting Started
